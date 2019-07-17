@@ -1,5 +1,5 @@
 ---
-title: "Stratchal - A full-fledged Business Simulation"
+title: "Stratchal - A full-fledged business simulation"
 layout: post
 headerImage: true
 projects: true

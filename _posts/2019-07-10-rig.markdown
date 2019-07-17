@@ -1,5 +1,5 @@
 ---
-title: "The Rig - A Game to train on Debiasing Techniques"
+title: "The Rig - A Game to train on debiasing techniques"
 layout: post
 headerImage: true
 projects: true

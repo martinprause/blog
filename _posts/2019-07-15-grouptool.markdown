@@ -1,5 +1,5 @@
 ---
-title: "Group Creation Tool to create Diverse and Distinct Student Groups"
+title: "A Group Creation Tool to create diverse and distinct student groups"
 layout: post
 headerImage: true
 projects: true
