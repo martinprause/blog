@@ -1,8 +1,6 @@
 ---
 title: "Stratchal - A full-fledged Business Simulation"
 layout: post
-date:
-tag: 
 image: https://martinprause.github.io/blog/assets/images/stratchal_small.jpg
 headerImage: true
 projects: true
