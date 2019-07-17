@@ -50,3 +50,5 @@ layout: page
 	<li>Software Developer (mobile appliactions), ProIT GmbH, Dortmund, Germany</li>
 	<li>Qualified IT Specialist (Apprenticeship), Impuls AG, Bremen, Germany</li>
 </ul>
+
+This website uses the theme: <a href="https://github.com/sergiokopplin/indigo">Indigo by Kopplin</a>
