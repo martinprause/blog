@@ -12,7 +12,7 @@ picture: assets/images/ich3.JPG
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
+resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
@@ -40,10 +40,10 @@ disqus:
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: martin-prause
 # youtube: myyoutube
 # spotify: myspotify
-github: https://github.com/martinprause
+github: martinprause
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -57,10 +57,9 @@ email: mt.prause@gmail.com
 authors:
     johndoe:
         name: Martin Prause
-        bio: A Man who travels the world eating noodles
+        bio: On average, algorithms are better decision-makers than humans
         external-image: false
-        picture: assets/images/profile.jpg
-        twitter: johndoe
+        picture: assets/images/ich3.JPG
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -76,7 +75,7 @@ projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
+blog: false
 
 # do you want to show the "read time" of the posts?
 read-time: true

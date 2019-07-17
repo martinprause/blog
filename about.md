@@ -5,11 +5,11 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 <p>I am a software developer. I am a researcher. And I love what I am doing. </p>
-<p>I am combining the research on computational intelligence (aka machine learning) and economics with application development in the field of decision suport systems. Simply because I believe algorithms are, on average, better decision-makers than humans. 
+<p>I am combining the research on computational intelligence (aka machine learning) and economics with application development in the field of decision support systems. Simply because I believe algorithms are, on average, better decision-makers than humans. 
 </p>
 <p>I speak over six different languages including German, English, Java, JavaScript, Python, C++, R. Also including some old ones such as PowerBuilder and Pascal. I am a great fan of crime movies
 <a href="https://www.daserste.de/unterhaltung/krimi/tatort/index.html/">(Tatort)</a> and crime books 
-<a href="https://simonbeckett.com/">(Simon Beckett)</a> and try to sepnd any penny on books. 
+<a href="https://simonbeckett.com/">(Simon Beckett)</a> and try to spend any penny on books. 
 
 
 
@@ -47,8 +47,6 @@ layout: page
 	<li>Internship at Infosys, Bangalore, India</li>
 	<li>Mentor, Google Summer of Code with London School of Economics</li>
 	<li>Diplom in Computer Science, TU Dortmund, Germany</li>
-	<li>Software Developer (mobile appliactions), ProIT GmbH, Dortmund, Germany
+	<li>Software Developer (mobile appliactions), ProIT GmbH, Dortmund, Germany</li>
 	<li>Qualified IT Specialist (Apprenticeship), Impuls AG, Bremen, Germany</li>
-
-
 </ul>
