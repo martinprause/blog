@@ -1,5 +1,5 @@
 ---
-title: "A Global Strategy Game to train on Internationl Strategy Execution"
+title: "A Global Strategy Game to train on International Strategy Execution"
 layout: post
 headerImage: true
 projects: true

@@ -1,5 +1,5 @@
 ---
-title: "The Rig"
+title: "The Rig - A Game to train on Debiasing Techniques"
 layout: post
 headerImage: true
 projects: true
@@ -15,7 +15,7 @@ Cognitive biases such as myopic problem representation, group think, the conjunc
 
 Visit the project at: [https://www.the-rig.org](https://www.the-rig.org). Access upon request.
 
-## User Interface
+## Game Characters
 
 ![Screenshot](https://martinprause.github.io/blog/assets/images/rig.jpg)
 ---

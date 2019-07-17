@@ -1,5 +1,5 @@
 ---
-title: "Business Simulation API for testing Machine Learning Algorithms"
+title: "Business Simulation API for Testing Machine Learning Algorithms"
 layout: post
 headerImage: true
 projects: true
