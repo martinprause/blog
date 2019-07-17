@@ -17,7 +17,7 @@ StratChal is a serious simulation game that combines management theories with pr
 
 Visit the project at: [www.stratchal.com](http://www.stratchal.com)
 
-Learning Outcomes
+##Learning Outcomes
 
 ![Screenshot](https://martinprause.github.io/blog/assets/images/stratchal_screen.jpg)
 ---
