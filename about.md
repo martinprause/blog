@@ -50,9 +50,11 @@ layout: page
 	<li>Software Developer (mobile appliactions), ProIT GmbH, Dortmund, Germany</li>
 	<li>Qualified IT Specialist (Apprenticeship), Impuls AG, Bremen, Germany</li>
 </ul>
-... and some programming certificates <a href="https://confirm.udacity.com/YA4JWXJL">Deep Reinforcement Learning</a>, <a href="https://confirm.udacity.com/EZF5AESU">Deep  Learning</a>, <a href="https://confirm.udacity.com/FTRUUJQG">Blockchain Developer</a>, <a href="https://confirm.udacity.com/N3MVJXRK">React Developer</a>, Java SE 7 Developer,  <a href="https://martinprause.github.io/blog/assets/Microsoft_Certified_Professional_Certificate_0.pdf">Microsoft Certified Professional</a>, <a href="https://martinprause.github.io/blog/assets/Microsoft_Certified_Professional_Certificate_1.pdf">Microsoft Certified Technology Specialist</a>,  <a href="https://martinprause.github.io/blog/assets/LPIC-1.pdf">Linux Professional Institute</a>.
+<p>
+... and some programming certificates: <a href="https://confirm.udacity.com/YA4JWXJL">Deep Reinforcement Learning</a>, <a href="https://confirm.udacity.com/EZF5AESU">Deep  Learning</a>, <a href="https://confirm.udacity.com/FTRUUJQG">Blockchain Developer</a>, <a href="https://confirm.udacity.com/N3MVJXRK">React Developer</a>,  <a href="https://confirm.udacity.com/N3MVJXRK">Java SE 7 Developer</a>,  <a href="https://martinprause.github.io/blog/assets/Microsoft_Certified_Professional_Certificate_0.pdf">Microsoft Certified Professional</a>, <a href="https://martinprause.github.io/blog/assets/Microsoft_Certified_Professional_Certificate_1.pdf">Microsoft Certified Technology Specialist</a>,  <a href="https://martinprause.github.io/blog/assets/LPIC-1.pdf">Linux Professional Institute</a>.
+</p>
 
-
-(https://martinprause.github.io/blog/assets/images/
+<p>
 
 This website uses the theme: <a href="https://github.com/sergiokopplin/indigo">Indigo by Kopplin</a>
+</p>
